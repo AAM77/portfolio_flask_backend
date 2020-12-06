@@ -55,6 +55,11 @@ coverage.xml
 *.mo
 *.pot
 
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
 # Django stuff:
 *.log
 local_settings.py
@@ -127,3 +132,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+*.DS_Store
